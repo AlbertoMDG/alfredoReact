@@ -15,3 +15,10 @@ export default function Home() {
     </main>
   )
 }
+
+
+/**
+ * crear un component de footer que mueste 
+ * inforacion lorem ipsun y con el ano que se dinamico
+ * 
+ */
